@@ -3,7 +3,7 @@
 由于在外科研人员需访问众多不同的数据库，但是webVPN的请求连接经过加密，对访问其他数据库需从图书馆查找，造成了极其不便。为此开发了一个浏览器插件，可以实现一键通过VPN访问。
 
 ## 安装
-从本仓库下载[源代码](https://github.com/dlutor/dlutvpn/files/4033685/DlutVpn.zip)，解压
+从本仓库下载[源代码](https://codeload.github.com/dlutor/dlutvpn/zip/master)，解压，
 打开Chrome扩展程序，勾选开发者模式，加载已解压的扩展程序，选择解压目录
 
 ## 使用

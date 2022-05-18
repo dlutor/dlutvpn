@@ -1,7 +1,6 @@
 # <b style='color:red'>该项目已无法使用</b> - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15` 
 ```diff
-+ this will be highlighted in green
-- this will be highlighted in red
+该项目已无法使用
 ```
 # 大工VPN
 本项目参考最新的大连理工大学[webVPN](https://webvpn.dlut.edu.cn/ "webVPN"),基于此开发一个浏览器扩展程序。
